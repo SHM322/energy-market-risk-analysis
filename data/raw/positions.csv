@@ -1,0 +1,10 @@
+date,book,commodity,position_size
+2023-01-02,Energy_Book_Trading,Crude_Oil,100000
+2023-01-02,Energy_Book_Trading,Natural_Gas,250000
+2023-01-02,Energy_Book_Refining,Gasoline,150000
+2023-01-03,Energy_Book_Trading,Crude_Oil,100000
+2023-01-03,Energy_Book_Trading,Natural_Gas,250000
+2023-01-03,Energy_Book_Refining,Gasoline,150000
+2023-01-04,Energy_Book_Trading,Crude_Oil,100000
+2023-01-04,Energy_Book_Trading,Natural_Gas,250000
+2023-01-04,Energy_Book_Refining,Gasoline,150000
